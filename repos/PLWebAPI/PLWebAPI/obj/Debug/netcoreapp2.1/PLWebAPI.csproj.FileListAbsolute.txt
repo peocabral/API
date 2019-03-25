@@ -1,0 +1,17 @@
+C:\Users\Administrador\source\repos\PLWebAPI\PLWebAPI\bin\Debug\netcoreapp2.1\PLWebAPI.deps.json
+C:\Users\Administrador\source\repos\PLWebAPI\PLWebAPI\bin\Debug\netcoreapp2.1\PLWebAPI.runtimeconfig.json
+C:\Users\Administrador\source\repos\PLWebAPI\PLWebAPI\bin\Debug\netcoreapp2.1\PLWebAPI.runtimeconfig.dev.json
+C:\Users\Administrador\source\repos\PLWebAPI\PLWebAPI\bin\Debug\netcoreapp2.1\PLWebAPI.dll
+C:\Users\Administrador\source\repos\PLWebAPI\PLWebAPI\bin\Debug\netcoreapp2.1\PLWebAPI.pdb
+C:\Users\Administrador\source\repos\PLWebAPI\PLWebAPI\obj\Debug\netcoreapp2.1\PLWebAPI.csprojAssemblyReference.cache
+C:\Users\Administrador\source\repos\PLWebAPI\PLWebAPI\obj\Debug\netcoreapp2.1\PLWebAPI.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\source\repos\PLWebAPI\PLWebAPI\obj\Debug\netcoreapp2.1\PLWebAPI.RazorAssemblyInfo.cache
+C:\Users\Administrador\source\repos\PLWebAPI\PLWebAPI\obj\Debug\netcoreapp2.1\PLWebAPI.RazorAssemblyInfo.cs
+C:\Users\Administrador\source\repos\PLWebAPI\PLWebAPI\obj\Debug\netcoreapp2.1\PLWebAPI.AssemblyInfoInputs.cache
+C:\Users\Administrador\source\repos\PLWebAPI\PLWebAPI\obj\Debug\netcoreapp2.1\PLWebAPI.AssemblyInfo.cs
+C:\Users\Administrador\source\repos\PLWebAPI\PLWebAPI\obj\Debug\netcoreapp2.1\PLWebAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Administrador\source\repos\PLWebAPI\PLWebAPI\obj\Debug\netcoreapp2.1\PLWebAPI.dll
+C:\Users\Administrador\source\repos\PLWebAPI\PLWebAPI\obj\Debug\netcoreapp2.1\PLWebAPI.pdb
+C:\Users\Administrador\source\repos\PLWebAPI\PLWebAPI\bin\Debug\netcoreapp2.1\PLWebAPI.Views.dll
+C:\Users\Administrador\source\repos\PLWebAPI\PLWebAPI\bin\Debug\netcoreapp2.1\PLWebAPI.Views.pdb
+C:\Users\Administrador\source\repos\PLWebAPI\PLWebAPI\obj\Debug\netcoreapp2.1\PLWebAPI.csproj.CopyComplete
